@@ -36,7 +36,10 @@ This repository provides a step-by-step guide to setting up and running the Hype
    ```sh
    npm install
    ```
-
+7.  **Add both scripts under src folder **
+   ```sh
+   cd asset-transfer-basic/application-gateway-javascript/src
+   ```
 ## CLI-Based Interaction (`CLI.js`)
 
 The `CLI.js` file provides an interactive command-line interface to perform CRUD operations on assets in the Hyperledger Fabric blockchain.
